@@ -1,2 +1,2 @@
-# VCC-Intern-Browser-Stats
+Browser-Stats
 Parse Nginx log to statistic browsers.
